@@ -1,17 +1,20 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/BaiWeilong" target="_blank">XXX</a> 
 <img src="https://user-images.githubusercontent.com/104026556/164068846-208470be-f459-41b4-934e-71cb06be30c0.gif" height="32"/></h1>
-<h3 align="center">Data Scientist, M.Eng. in Logistics Engineering</h3> 
+<h3 align="center">Data Analyst, M.Eng. in Logistics Engineering</h3> 
 
 
 <h2>About me</h2>
-Junior Data Scientist/Engineer with focus on Supply Chain Management and Logistics Engineering projects
+Data Analyst with focus on Supply Chain Management and Logistics Engineering projects
 <br><br>
  Currently, I'm working with:
  
-    Data Analysis (numpy, matplotlib, pandas)
-    Machine Learning (plotly, sklearn, pytorch, tensorflow)
-    Cloud Services (Google Cloud Platform, AWS, Azure)
-    Data Visualization (Tableu, PowerBI, Google Data Studio)
+    Python [Numpy, Scipy, Pandas, Seaborn, Matplotlib]
+    SQL [Clickhouse, PostgreSQL, MySQL]
+    Machine Learning [Sklearn, CatBoost]
+    Data Engineering [AirFlow, Gitlab, Apache Spark]
+    Data Visualization [Tableu, PowerBI, Redash, DataLens]
+    Statistics [Probability, A/B tests, Minitab]
+    Scrapping [BeautifulSoup, VBA]
 
 Find more details on my <a href="https://docs.google.com">CV</a> or <a href="https://linkedin.com">LinkedIn</a>
 <br><br>
@@ -27,14 +30,6 @@ If you've got any questions, feel free to contact me!
 
  <a href="https://en.wikipedia.org/wiki/SQL">
   <img src="https://user-images.githubusercontent.com/104026556/164073913-c117e93d-1f94-49c3-acb6-1a25bc835d29.png" alt="SQL">
-</a> 
-
- <a href="https://en.wikipedia.org/wiki/R_(programming_language)">
-  <img src="https://user-images.githubusercontent.com/104026556/164074549-d72c99a7-7288-41f4-bb86-2dce5902c3e2.png" alt="R">
-</a> 
-
- <a href="https://en.wikipedia.org/wiki/Docker_(software)">
-  <img src="https://user-images.githubusercontent.com/104026556/164074722-57389daf-09aa-4b89-892a-040874eaed5d.png" alt="Docker">
 </a> 
 
  <a href="https://en.wikipedia.org/wiki/Apache_Hadoop">
