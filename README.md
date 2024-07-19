@@ -31,6 +31,6 @@ If you've got any questions, feel free to contact me!
   <img src="https://user-images.githubusercontent.com/104026556/164077532-7c78adfc-75ab-4c8c-9e7f-fc66cac481ae.png" alt="Mail">
 </a> 
 
- <a href="https://linkedin.com/wladyslaw-borowski">
+ <a href="https://www.linkedin.com/in/wladyslaw-borowski/">
   <img src="https://user-images.githubusercontent.com/104026556/164077544-936ba129-8618-4a4d-906e-488da59053f7.png" alt="LinkedIn">
 </a> 
