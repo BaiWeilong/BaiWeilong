@@ -4,7 +4,8 @@
 
 
 <h2>About me</h2>
-Data Analyst with focus on E-Com and Logistics Engineering projects
+Data Analyst with focus on E-Com and Logistics Engineering projects. 
+beVisioneers: The Mercedes-Benz Fellow, Chinese Government scholarship recipient.
 <br><br>
 
 <h2>Contacts:</h2>
