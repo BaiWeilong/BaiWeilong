@@ -31,12 +31,6 @@ If you've got any questions, feel free to contact me!
   <img src="https://user-images.githubusercontent.com/104026556/164077532-7c78adfc-75ab-4c8c-9e7f-fc66cac481ae.png" alt="Mail">
 </a> 
 
- <a href="https://slack.com/">
-  <img src="https://user-images.githubusercontent.com/104026556/164077522-068d7282-1196-46bf-aa96-e5dd3c080b1e.png" alt="Slack">
-</a> 
-
- <a href="https://linkedin.com">
+ <a href="https://linkedin.com/wladyslaw-borowski">
   <img src="https://user-images.githubusercontent.com/104026556/164077544-936ba129-8618-4a4d-906e-488da59053f7.png" alt="LinkedIn">
 </a> 
-
-![](https://komarev.com/ghpvc/?username=BaiWeilong)
