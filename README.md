@@ -6,7 +6,7 @@
 <h2>About me</h2>
 Data Analyst with focus on E-Com and Logistics Engineering projects. 
 beVisioneers: The Mercedes-Benz Fellow, Chinese Government scholarship recipient.
-[Counter](https://komarev.com/ghpvc/?username=BaiWeilong)
+
 <br><br>
 
 <h2>Contacts:</h2>
@@ -15,7 +15,7 @@ beVisioneers: The Mercedes-Benz Fellow, Chinese Government scholarship recipient
 * 📲 [Telegram](https://t.me/BaiWeilong)
 * 💻 [LinkedIn](https://www.linkedin.com/in/wladyslaw-borowski/)
 * ✉ [wladborowski@gmail.com](mailto:wladborowski@gmail.com)
-  
+  [](https://komarev.com/ghpvc/?username=BaiWeilong)
 ---
 ### Skills :hammer_and_wrench:
 
