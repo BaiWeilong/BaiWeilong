@@ -15,7 +15,8 @@ beVisioneers: The Mercedes-Benz Fellow, Chinese Government scholarship recipient
 * 📲 [Telegram](https://t.me/BaiWeilong)
 * 💻 [LinkedIn](https://www.linkedin.com/in/wladyslaw-borowski/)
 * ✉ [wladborowski@gmail.com](mailto:wladborowski@gmail.com)
-  [](https://komarev.com/ghpvc/?username=BaiWeilong)
+* [](https://komarev.com/ghpvc/?username=BaiWeilong)
+  
 ---
 ### Skills :hammer_and_wrench:
 
