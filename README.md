@@ -6,9 +6,9 @@
 <h2>About me</h2>
 Data Analyst with focus on E-Com and Logistics Engineering projects. 
 beVisioneers: The Mercedes-Benz Fellow, Chinese Government scholarship recipient.
-![Vlad profile views](https://komarev.com/ghpvc/?username=BaiWeilong&style=for-the-badge)
-<br><br>
 
+<br><br>
+![Vlad profile views](https://komarev.com/ghpvc/?username=BaiWeilong&style=for-the-badge)
 <h2>Contacts:</h2>
 
 * 📞 +0-000-000-00-00
