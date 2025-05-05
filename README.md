@@ -54,7 +54,7 @@ If you've got any questions, feel free to contact me!
 
 <h2>Contacts:</h2>
 
-* 📞 +48-690-583-341
+* 📞 +7-931-342-7464
 * 📲 [Telegram](https://t.me/BaiWeilong)
 * 💻 [LinkedIn](https://www.linkedin.com/in/wladyslaw-borowski/)
 * ✉ [wladborowski@gmail.com](mailto:wladborowski@gmail.com)
