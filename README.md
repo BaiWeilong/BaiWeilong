@@ -48,7 +48,7 @@ beVisioneers: The Mercedes-Benz Fellow, Chinese Government scholarship recipient
 
 I speak English, Polski, Русский, 中文
 <br>
-Find more details on my <a href="https://drive.google.com/file/d/1NOMdpbXXsekTjN3fCSSRy9KKYZkCjCg-/view?usp=sharing">CV</a>
+Find more details on my <a href="https://drive.google.com/file/d/1Yndwuo2OeSzhDLOoghUn5OGlnlN-e8q5/view?usp=sharing">CV</a>
 <br>
 If you've got any questions, feel free to contact me!
 
